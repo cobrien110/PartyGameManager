@@ -1,0 +1,10 @@
+VideoGame Doom 1 0.0 PC
+VideoGame Tetris 1 900000000.0 GameBoy
+VideoGame BulletBoys 4 2000000 PC
+BoardGame Gloomhaven 4 1200.0 4.5
+BoardGame Fluxx 6 70000 1.0
+Game Tag 100 200.0
+Game RockPaperScissors 2 12212340.0
+BoardGame KingsDilemma 5 0.0 3.5
+VideoGame RoboQuest 2 124000.0 Xbox
+Game StaringContest 2 10
